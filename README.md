@@ -37,3 +37,5 @@ This can be resolved (under linux) using the following commands from inside the 
 mkdir obj
 mkdir obj / zerocoin
 mkdir obj-test
+
+
