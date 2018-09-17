@@ -30,3 +30,10 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+
+The folders obj, obj / zerocoin and obj-test do not exist under the folder src.
+This can be resolved (under linux) using the following commands from inside the src folder.
+
+mkdir obj
+mkdir obj / zerocoin
+mkdir obj-test
